@@ -1,12 +1,15 @@
 {
   "name": "happyrestangular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/yanninho/happyRestAngular",
   "authors": [
     "yanninho <y4nn5m@gmail.com>"
   ],
   "description": "Angularjs module to communicate with HappyRest middleware on Express server",
-  "main": "index.js",
+  "main": [
+    "lib/happyRestAngular.js",
+    "lib/exceptions.js"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
