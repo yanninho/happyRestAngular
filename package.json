@@ -1,6 +1,6 @@
 {
   "name": "happyrestangular",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Angular module to communicate with HappyRest... components on node.js + Express server",
   "main": "index.js",
   "directories": {
